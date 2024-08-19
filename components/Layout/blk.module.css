@@ -1,0 +1,129 @@
+.header{
+    max-width:1320px;
+    z-index: 1;
+    position: sticky;
+}
+
+.logo{
+    display: flex;
+    z-index:3;
+}
+
+.logo img{
+    cursor: pointer;
+}
+
+.boxmenu{
+    display:none;
+}
+
+.boxmenushow{
+    display: block;
+}
+
+.boxlingual{
+    margin-left: auto;
+    text-transform: uppercase;
+    color: white;
+    display: flex;
+    flex-direction: row-reverse;
+    position: relative;
+    z-index: 2;
+}
+
+.boxlingual__button{
+    cursor: pointer;
+    display: flex;
+    flex-direction: row-reverse;
+    background-image: url(/img/globe.svg);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 30px;
+    background-size: contain;
+    height: 17px;
+}
+
+@media screen and (min-width:992px){
+    .header{
+        margin: 0 auto -46px;
+        padding:20px 15px 10px;
+    }
+
+    .logo{
+        position: fixed;
+        height: 100%;
+        left: 30px;
+        display: flex;
+        align-items: center;
+        top: 0;
+    }
+    
+    .mobile{
+        display: none;
+    }
+
+    .boxlingual__button ul{
+        display: inline-flex
+    }
+    
+    .boxlingual__button ul li{
+        letter-spacing:-10px;
+        opacity: 0;
+        margin: 0;
+        -webkit-transition: all 0.1s ease;
+        -moz-transition: all 0.1s ease;
+        -ms-transition: all 0.1s ease;
+        -o-transition: all 0.1s ease;
+        transition: all 0.1s ease;
+    }
+
+    .boxlingual__button:hover ul li{
+        display: flex;
+        letter-spacing:normal;
+        opacity: 1;
+        margin-right: 10px;
+        -webkit-transition: all 0.1s ease;
+        -moz-transition: all 0.1s ease;
+        -ms-transition: all 0.1s ease;
+        -o-transition: all 0.1s ease;
+        transition: all 0.1s ease;
+    }
+
+}
+
+@media screen and (max-width:991px){
+    .header{
+        padding:15px;
+        position: sticky;
+        top: 0;
+        display: flex;
+        align-items: center;
+        background-color: #23262C;
+        z-index: 2;
+    }
+
+    .desktop,
+    .noneboxlingual{
+        display: none;
+    }
+
+    .boxlingual__button ul{
+        letter-spacing:-10px;
+        opacity: 0;
+    }
+    
+    .showboxlingual{
+        display: flex;
+        letter-spacing:normal!important;
+        opacity: 1!important;
+        -webkit-transition: all 0.1s ease;
+        -moz-transition: all 0.1s ease;
+        -ms-transition: all 0.1s ease;
+        -o-transition: all 0.1s ease;
+        transition: all 0.1s ease;
+    }
+    
+    .showboxlingual li{
+        margin-right: 10px;
+    }
+}

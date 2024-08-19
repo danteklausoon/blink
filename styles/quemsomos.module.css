@@ -1,0 +1,70 @@
+.title{
+    font-family: 'DIN2014-Bold';
+    margin: 70px 0 30px;
+    line-height: normal;
+}
+
+.subtitle{
+    margin-bottom: 70px;
+}
+
+.txt{
+    font-family: 'DIN2014-Bold';
+    color: #FFDC48;
+    margin-bottom: 30px;
+    line-height: normal;
+}
+
+.carousel{
+    margin: 80px 0 100px;
+}
+
+.carousel__item{
+    margin: 0 15px;
+}
+
+.carousel__item img{
+    width: 100%;
+}
+
+.list{
+    gap: 20px;
+    display: grid;
+    margin: 100px 0;
+}
+
+.list strong{
+    font-family: 'DIN2014-Bold';
+    text-transform: uppercase;
+}
+
+.list img{
+    margin-bottom: 15px;
+}
+
+.video {   
+    width: 100%;
+    height: 100%;
+    margin: 30px 0 100px;
+}
+
+@media screen and (max-width:991px){
+    .title,
+    .txt{
+        font-size: 1.5em;
+    }
+}
+
+@media screen and (min-width:992px){
+    .title{
+        font-size: 3em;
+    }
+
+    .list{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    .txt{
+        font-size: 2em;
+    }
+}

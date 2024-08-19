@@ -1,0 +1,43 @@
+.boxmenu__menu{
+    display: flex;
+    width: 100%;
+    background: #262626;
+    position: fixed;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+
+.boxmenu__menu li a{
+    margin: 0 40px;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.boxmenu__menu li a:hover{
+    color:#FDDD00;
+}
+
+.active{
+    color:#ED0100;
+}
+
+@media screen and (max-width:991px){
+    .boxmenu__menu{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center; 
+    }
+
+    .boxmenu__menu li{
+        margin: 15px auto;
+    }
+}
+
+@media screen and (min-width:992px){
+    .boxmenu__menu{
+        align-items: center;
+        justify-content: center;
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "menu":{
+        "home":"home",
+        "quemsomos":"who we are",
+        "produtos":"products",
+        "contato":"contact"
+    },
+    "HeadContainer":{
+        "title":"Blink",
+        "description":"Cutting-edge biotechnology in a symbiotic relationship with the environment. Blink presents what is most advanced in the animal nutrition market."
+    },
+    "banner": {
+        "title": "Animal nutrition solutions",
+        "subtitle": "Cutting-edge biotechnology in a symbiotic relationship with the environment. Blink presents what is most advanced in the animal nutrition market.",
+        "whowetext": "High technology, sustainability and innovation. Learn more about our principles.",
+        "whowebtn": "WHO WE ARE",
+        "prodtext": "Complete line of biotechnological and sustainable solutions for animal nutrition.",
+        "prodbtn": "PRODUCTS",
+        "contacttext": "Get in touch and have direct support from our technical and commercial team.",
+        "contactbtn": "CONTACT"
+    },
+
+    "whoweare": {
+        "HeadMeta":{
+            "title":"Blink - Who we are",
+            "description":"High technology, sustainability and innovation. Learn more about our principles."
+        },
+        "title": "Sustainability and innovation: high technology in the production of additives for animal nutrition.",
+        "subtitle": "Learn more about Blink and its biotechnological and sustainable solutions that contribute to animal nutrition.",
+        "text01": "Blink was born with the audacity to help solve one of the biggest challenges for the future: to feed a constantly growing population - which expects 9 billion inhabitants in 2050 - without depleting our planet's natural resources.",
+        "text02": "Our work is built on three pillars:",
+        "strong3": "High technology, ",
+        "text03": "as we understand that progress is inherent to the human condition and our ability to evolve.",
+        "strong4": "Sustainability, ",
+        "text04": "reading nature as a precious composition of environmental resources and social presence.",
+        "strong5": "Constant innovation, ",
+        "text05": "a premise for the success of biotechnology companies.",
+        "text06": "Food health technology at the service of safe and abundant food for human beings, in addition to respect for the environment",
+        "text07": "In our industrial complex, every day hundreds of people are committed to transforming knowledge into a solution, through organic supplements for animal nutrition. Blink makes the highest quality products that bring the best benefits to animals.",
+        "text08": "Cutting-edge biotechnology and innovation in a symbiotic relationship with the environment. Animals, humans and nature all win. Blink, the future is here."
+    },
+
+    
+    "produtos":{
+        "HeadMeta":{
+            "title":"Blink - Products",
+            "description":"Complete line of biotechnological and sustainable solutions for animal nutrition."
+        }
+    },
+
+    "myco":{
+        "HeadMeta":{
+            "title":"Blink - ADSORBENTS",
+            "description":"Blink's antimycotoxin binders are broad-spectrum products composed of specific yeast cell wall fractions, organic antioxidants and plant extracts. They promote, through the association of technologies, adsorption of mycotoxins and mitigation of the effects caused by them in the animals organisms, providing Liver functions protection improvement of intestinal health and control of oxidative stress."
+        },
+        "title":"ADSORBENTS",
+        "text01": "Blink's antimycotoxin binders are broad-spectrum products composed of specific yeast cell wall fractions, organic antioxidants and plant extracts. They promote, through the association of technologies, adsorption of mycotoxins and mitigation of the effects caused by them in the animals organisms, providing Liver functions protection improvement of intestinal health and control of oxidative stress.",
+        "text02": "Blink MycoLink",
+        "text03": "Blink MycoLink P",
+        "text04": "Blink MycoLink S"
+    },
+
+    "mior": {
+        "HeadMeta":{
+            "title":"Blink - ORGANIC MINERALS",
+            "description":"Organic minerals, technologically processed, resulting in greater bioavailability to animal organisms due to the connections established between metallic ions and non-specific amino acids, promoting the formation of highly stable chains."
+        },
+        "title":"ORGANIC MINERALS",
+        "text01": "Organic minerals, technologically processed, resulting in greater bioavailability to animal organisms due to the connections established between metallic ions and non-specific amino acids, promoting the formation of highly stable chains.",
+        "text02": "Blink Calcium 17% and 22%",
+        "text03": "Blink Cobalt 10% and 14%",
+        "text04": "Blink Copper 17% and 22%",
+        "text05": "Blink Chromium 10 and 20",
+        "text06": "Blink Iron 17% and  22%",
+        "text07": "Blink Magnesium 10%",
+        "text08": "Blink Manganese 17% and 22%",
+        "text09": "Blink Selenium 2.0 and 6.0",
+        "text10": "Blink Zinc 17% and 22%"
+    },
+
+    "mobe": {
+        "HeadMeta":{
+            "title":"Blink - PREBIOTICS",
+            "description":"Blink's animal feed prebiotic additives are composed of mannanoligosaccharides and beta-glucans (ß-1,3 and ß-1,6) extracted from the cell wall of the yeast Saccharomyces cerevisiae. Beta-glucans interact with several immunocompetent cells, modulating the immune system. Mannans are not digested in the proximal portion of the gastrointestinal tract, making them highly beneficial to the animal by stimulating a healthy intestinal environment."
+        },
+        "title":"PREBIOTICS",
+        "text01":"Blink's animal feed prebiotic additives are composed of mannanoligosaccharides and beta-glucans (ß-1,3 and ß-1,6) extracted from the cell wall of the yeast Saccharomyces cerevisiae. Beta-glucans interact with several immunocompetent cells, modulating the immune system. Mannans are not digested in the proximal portion of the gastrointestinal tract, making them highly beneficial to the animal by stimulating a healthy intestinal environment. Some of its benefits are:",
+        "textli1":"• Reduction in the incidence of gastrointestinal problems;",
+        "textli2":"• Improvement of the immune system;",
+        "textli3":"• Modulates the intestinal flora by serving as a substrate for the growth of beneficial bacteria;",
+        "textli4":"• Provides more energy from food;",
+        "textli5":"• Increased feed conversion;",
+        "textli6":"• Weight gain.",
+        "text02": "Blink β-Link",
+        "text03": "BlinkMOS"
+    },
+
+    "mixs": {
+        "HeadMeta":{
+            "title":"Blink - BLENDS",
+            "description":"Blink's line of blends are nutritional compositions that contribute to better animal health results, in addition to helping in gains in productive, reproductive and health indices. They are composed of a anti-mycotoxin binders, prebiotics, probiotics and organic minerals"
+        },
+        "title":"BLENDS",
+        "text01":"Blink's line of blends are nutritional compositions that contribute to better animal health results, in addition to helping in gains in productive, reproductive and health indices. They are composed of a anti-mycotoxin binders, prebiotics, probiotics and organic minerals.",
+        "text02": "BlinkBlend Beef",
+        "text03": "BlinkBlend Cattle",
+        "text04": "BlinkBlend Dairy",
+        "text05": "BlinkBlend Poultry",
+        "text06": "BlinkBlend Breeder",
+        "text07": "Blink β-ZC"
+    },
+
+    "myst": {
+        "HeadMeta":{
+            "title":"Blink - YEAST",
+            "description":"They are important palatable protein sources, in addition to naturally helping to combat pathogenic bacteria. They are available in different protein levels."
+        },
+        "title":"YEAST",
+        "text01": "They are important palatable protein sources, in addition to naturally helping to combat pathogenic bacteria. They are available in different protein levels.",
+        "text02": "BlinkLev 32",
+        "text03": "BlinkLev 35",
+        "text04": "BlinkLev 37",
+        "text05": "BlinkLev 40",
+        "text06": "Blink YCW (Yeast Cell Wall)"
+    },
+
+    "titleLarge": "We believe in a future built in the present by those who care about life",
+    "explore_linha": "Explore our lines",
+    "clique_abaixo": "CLICK ON THE SPECIES OR PRODUCTS BELOW",
+    "icon01": "Poultry",
+    "icon02": "Swines",
+    "icon03": "Bovine",
+    "icon04": "Equines",
+    "icon05": "Pets",
+    "icon06": "Fishes",
+    "por_dentro": "Keep in touch",
+    "assine": "Subscribe to the newsletter",
+    "enviar": "Send",
+    "titleitem": "PRODUCT LINE",
+    "textcontat":{
+        "text1":"For further information,",
+        "text2":"please contact our technical-commercial team"
+    },
+    "contato":{
+        "HeadMeta":{
+            "title":"Blink - Contact us",
+            "description":"Get in touch and have direct support from our technical and commercial team."
+        },
+        "title":"Contact us",
+        "nome":"Name",
+        "email":"E-mail",
+        "assunto":{
+            "text1":"Department",
+            "text2": "Technician",
+            "text3": "Commercial",
+            "text4": "Marketing",
+            "text5": "Administrative",
+            "text6": "Others"
+        },
+        "produtos":"Subject",
+        "mensagem": "Message",
+        "enviar": "Send"
+    },
+    "endereco1":"Brigadeiro Faria Lima Avenue, 1755, room 4 - São Paulo/SP",
+    "endereco2":"André Adolfo Ferrari Street, 107 - Zona Industrial Nova Era, Indaiatuba/SP",
+    "endereco3":"Super Carretera 60, Hernandarias – Alto Paraná – Paraguay",
+    "footer":"All rights reserved",
+    "btnback":"Back"
+}

@@ -1,0 +1,33 @@
+.col{
+    display: flex;
+}
+
+.col div{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+@media screen and (min-width:992px){
+    .col h1{
+        text-align: center;
+        font-size: 10rem;
+    }
+    
+    .col span{
+        font-size: 5rem;
+    }
+
+    .col div{
+        width: 50%;
+    }
+}
+
+@media screen and (max-width:991px){
+    .col h1{
+        font-size: 3em;
+        padding: 0 30px;
+    }
+    
+}

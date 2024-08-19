@@ -1,0 +1,145 @@
+.bannerbox__texts{
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+}
+
+.bannerbox__texts section{
+    max-width: 1320px;
+    margin: 0 auto;
+}
+
+.bannerbox__texts_titles h1{
+    font-family: 'DIN2014-ExtraBold';
+}
+
+.bannerbox__texts_titles p{
+    font-family: 'DIN2014-Demi';
+}
+
+.bannerbox__texts_menu{
+    display: grid;
+    font-size: 17px;
+    line-height: 22px;
+}
+
+.bannerbox__texts_menu a{
+    font-size: 24px;
+    margin-top: 20px;
+    display: block;
+    font-family: 'DIN2014-Demi';
+}
+
+.slideMobile {
+    filter: brightness(60%);
+}
+
+.bg_video{
+    background-position: center;
+    background-image: url(/img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+@media screen and (max-width:991px){
+    .bannerbox__texts_titles h1{
+        font-size: 2.5em;
+        margin-bottom: 20px;
+    }
+
+    .bannerbox__texts_titles p{
+        font-size: 19px;
+        line-height: 25px;
+        margin-bottom: 25px;
+    }
+
+    .bannerbox__texts_menu li{
+        border-top: 1px solid #92802B;
+        margin-top: 10px;
+        padding: 15px 0;
+    }
+
+    .bannerbox__texts section{
+        padding: 15px;
+    }
+    
+    .slideMobile {
+        filter: brightness(100%);
+    }
+
+    .bg_video{
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media screen and (min-width:992px){
+    .bannerbox__texts{
+        background-color: rgba(0, 0, 0, 0.6);
+        height: 100vh;
+    }
+    .bg_video{
+        position: absolute; 
+        right: 0; 
+        left: 0;
+        bottom: 0;
+        min-height: 100vh;
+        width: 100%; 
+        height: auto; 
+        z-index: -1000;
+    }
+
+    .bannerbox{
+        position: relative;
+        height: 100vh;
+    }
+
+    .bannerbox__texts{
+        position: absolute;
+        bottom: 0;
+    }
+
+    .bannerbox__texts_menu{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin-left: 30%;
+        margin-bottom: 60px;
+        font-size: 17px;
+        line-height: 22px;
+    }
+
+    .bannerbox__texts_menu li{
+        padding: 0 20px;
+        border-left: 3px solid #FDDD00;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        position: relative;
+    }
+    .bannerbox__texts_menu li::before{
+        content: '';
+        position: absolute;
+        top: 0;
+        left: -4px;
+        width: 6px;
+        height: 6px;
+        border-radius: 10px;
+        background-color: #FDDD00;
+    }
+
+    .bannerbox__texts_titles{
+        width: 50%;
+        margin-left: auto;
+        margin-bottom: 100px;
+    }
+
+    .bannerbox__texts_titles h1{
+        font-size: 3.5em;
+        margin-bottom: 30px;
+    }
+
+    .bannerbox__texts_titles p{
+        font-size: 25px;
+        line-height: 30px;
+    }
+}
