@@ -1,0 +1,168 @@
+{
+    "menu":{
+        "home":"início",
+        "quemsomos":"quienes somos",
+        "produtos":"productos",
+        "contato":"contacto"
+    },
+    "HeadContainer":{
+        "title":"Blink",
+        "description":"Biotecnología de vanguardia en una relación simbiótica con el medio ambiente. Blink presenta lo más avanzado en el mercado de la nutrición animal."
+    },
+    "banner": {
+        "title": "Soluciones para nutrición animal",
+        "subtitle": "Biotecnología de vanguardia en una relación simbiótica con el medio ambiente. Blink presenta lo más avanzado en el mercado de la nutrición animal.",
+        "whowetext": "Alta tecnología, sostenibilidad e innovación. Conozca más sobre nuestros principios.",
+        "whowebtn": "QUIENES SOMOS",
+        "prodtext": "Línea completa de soluciones biotecnológicas y sostenibles para la nutrición animal.",
+        "prodbtn": "PRODUCTOS",
+        "contacttext": "Póngase en contacto y tenga soporte directo de nuestro equipo técnico y comercial.",
+        "contactbtn": "CONTACTO"
+    },
+    
+    "whoweare": {
+        "HeadMeta":{
+            "title":"Blink - Quienes Somos",
+            "description":"Alta tecnología, sostenibilidad e innovación. Conozca más sobre nuestros principios."
+        },
+        "title": "Sostenibilidad e innovación: alta tecnología en la producción de aditivos para nutrición animal.",
+        "subtitle": "Conozca un poco más sobre Blink y sus soluciones biotecnológicas y sustentables que contribuyen a la nutrición animal.",
+        "text01": "Blink nació con la audacia de ayudar a resolver uno de los mayores desafíos para el futuro: alimentar a una población en constante crecimiento, que espera 9 mil millones de habitantes en 2050, sin agotar los recursos naturales de nuestro planeta.",
+        "text02": "Nuestro trabajo se basa en tres pilares:",
+        "strong3": "Alta tecnología, ",
+        "text03": "pues entendemos que el progreso es inherente a la condición humana y a nuestra capacidad de evolución.",
+        "strong4": "Sostenibilidad, ",
+        "text04": "leyendo la naturaleza como una preciosa composición de recursos ambientales y presencia social.",
+        "strong5": "Innovación constante, ",
+        "text05": "premisa para el éxito de las empresas biotecnológicas.",
+        "text06": "La tecnología de la salud alimentaria al servicio de una alimentación segura y abundante para el ser humano, además del respeto por el medio ambiente.",
+        "text07": "En nuestro complejo industrial, cada día cientos de personas se comprometen a transformar el conocimiento en una solución, a través de suplementos orgánicos para la nutrición animal. Blink fabrica productos de la más alta calidad que brindan los mejores beneficios a los animales.",
+        "text08": "Biotecnología de vanguardia e innovación en una relación simbiótica con el medio ambiente. Ganan los animales, los humanos y la naturaleza. Blink, el futuro está aquí."
+    },
+
+    "produtos":{
+        "HeadMeta":{
+            "title":"Blink - Productos",
+            "description":"Línea completa de soluciones biotecnológicas y sostenibles para la nutrición animal."
+        }
+    },
+
+    "myco":{
+        "HeadMeta":{
+            "title":"Blink - ADSORBENTES",
+            "description":"Los aditivos antimicotoxinas de Blink son productos de amplio espectro compuestos por fracciones específicas de la pared celular de la levadura, antioxidantes orgánicos y extractos de plantas. Promueven, mediante la asociación de tecnologías, la adsorción de micotoxinas y la mitigación de los efectos causados por las mismas en el organismo del animal, proporcionando protección de las funciones hepáticas, mejora de la salud intestinal y control del estrés oxidativo."
+        },
+        "title":"ADSORBENTES",
+        "text01": "Los aditivos antimicotoxinas de Blink son productos de amplio espectro compuestos por fracciones específicas de la pared celular de la levadura, antioxidantes orgánicos y extractos de plantas. Promueven, mediante la asociación de tecnologías, la adsorción de micotoxinas y la mitigación de los efectos causados por las mismas en el organismo del animal, proporcionando protección de las funciones hepáticas, mejora de la salud intestinal y control del estrés oxidativo.",
+        "text02": "Blink MycoLink",
+        "text03": "Blink MycoLink P",
+        "text04": "Blink MycoLink S"
+    },
+
+    "mior": {
+        "HeadMeta":{
+            "title":"Blink - MINERALES ORGÁNICOS",
+            "description":"Minerales orgánicos, procesados tecnológicamente, resultando en una mayor biodisponibilidad para el organismo animal debido a las conexiones que se establecen entre iones metálicos y aminoácidos inespecíficos, favoreciendo la formación de cadenas altamente estables."
+        },
+        "title":"MINERALES ORGÁNICOS",
+        "text01": "Minerales orgánicos, procesados tecnológicamente, resultando en una mayor biodisponibilidad para el organismo animal debido a las conexiones que se establecen entre iones metálicos y aminoácidos inespecíficos, favoreciendo la formación de cadenas altamente estables.",
+        "text02": "Blink Calcium 17% y 22%",
+        "text03": "Blink Cobalt 10% y 14%",
+        "text04": "Blink Copper 17% y 22%",
+        "text05": "Blink Chromium 10 y 20",
+        "text06": "Blink Iron 17% y 22%",
+        "text07": "Blink Magnesium 10%",
+        "text08": "Blink Manganese 17% y 22%",
+        "text09": "Blink Selenium 2.0 y 6.0",
+        "text10": "Blink Zinc 17% y 22%"
+    },
+
+    "mobe": {
+        "HeadMeta":{
+            "title":"Blink - PREBIÓTICOS",
+            "description":"Los aditivos prebióticos para alimentación animal de Blink están compuestos por mananooligosacáridos y betaglucanos (ß-1,3 y ß-1,6) extraídos de la pared celular de la levadura Saccharomyces cerevisiae. Los beta-glucanos interactúan con varias células inmunocompetentes, modulando el sistema inmunológico. Los mananos no se digieren en la porción proximal del tracto gastrointestinal, lo que los hace altamente beneficiosos para el animal al estimular un ambiente intestinal saludable."
+        },
+        "title":"PREBIÓTICOS",
+        "text01":"Los aditivos prebióticos para alimentación animal de Blink están compuestos por mananooligosacáridos y betaglucanos (ß-1,3 y ß-1,6) extraídos de la pared celular de la levadura Saccharomyces cerevisiae. Los beta-glucanos interactúan con varias células inmunocompetentes, modulando el sistema inmunológico. Los mananos no se digieren en la porción proximal del tracto gastrointestinal, lo que los hace altamente beneficiosos para el animal al estimular un ambiente intestinal saludable. Algunos de sus beneficios son:",
+        "textli1":"• Reducción de la incidencia de problemas gastrointestinales;",
+        "textli2":"• Mejora el sistema inmunológico;",
+        "textli3":"• Modula la flora intestinal al servir como sustrato para el crecimiento de bacterias beneficiosas;",
+        "textli4":"• Proporciona más energía de los alimentos;",
+        "textli5":"• Mayor conversión de alimentos;",
+        "textli6":"• Aumento de peso.",
+        "text02": "Blink β-Link",
+        "text03": "BlinkMOS"
+    },
+
+    "mixs": {
+        "HeadMeta":{
+            "title":"Blink - BLENDS",
+            "description":"La línea de blends tiene composiciones nutricionales que contribuyen a mejores resultados en salud animal, además de ayudar en la ganancia de índices productivos, reproductivos y de salud. Están compuestos por un aditivo anti-micotoxinas (adsorbente de micotoxinas), prebióticos, probióticos y minerales orgánicos."
+        },
+        "title":"BLENDS",
+        "text01":"La línea de blends tiene composiciones nutricionales que contribuyen a mejores resultados en salud animal, además de ayudar en la ganancia de índices productivos, reproductivos y de salud. Están compuestos por un aditivo anti-micotoxinas (adsorbente de micotoxinas), prebióticos, probióticos y minerales orgánicos.",
+        "text02": "BlinkBlend Beef",
+        "text03": "BlinkBlend Cattle",
+        "text04": "BlinkBlend Dairy,",
+        "text05": "BlinkBlend Poultry",
+        "text06": "BlinkBlend Breeder",
+        "text07": "Blink β-ZC"
+    },
+
+    "myst": {
+        "HeadMeta":{
+            "title":"Blink - LEVADURA",
+            "description":"Son importantes fuentes de proteínas palatables, además de ayudar de forma natural a combatir las bacterias patógenas. Están disponibles en diferentes niveles de proteína."
+        },
+        "title":"LEVADURA",
+        "text01": "Son importantes fuentes de proteínas palatables, además de ayudar de forma natural a combatir las bacterias patógenas. Están disponibles en diferentes niveles de proteína.",
+        "text02": "BlinkLev 32",
+        "text03": "BlinkLev 35",
+        "text04": "BlinkLev 37",
+        "text05": "BlinkLev 40",
+        "text06": "Blink YCW (pared celular)"
+    },
+
+    "titleLarge": "Creemos en un futuro construido en el presente por quienes se preocupan por la vida",
+    "explore_linha": "Explora nuestras líneas",
+    "clique_abaixo": "HAGA CLIC EN LAS ESPECIES O PRODUCTOS A CONTINUACIÓN",
+    "icon01": "Aves",
+    "icon02": "Cerdos",
+    "icon03": "Bovinos",
+    "icon04": "Equinos",
+    "icon05": "Mascotas",
+    "icon06": "Pescado",
+    "por_dentro": "Mantenerse en contacto",
+    "assine": "Suscríbete al boletín",
+    "enviar": "Mandar",
+    "titleitem": "LÍNEA DE PRODUCTOS",
+    "textcontat":{
+        "text1":"Para más información,",
+        "text2":"contacte con nuestro equipo técnico-comercial"
+    },
+    "contato":{
+        "HeadMeta":{
+            "title":"Blink - Hable con nosotros",
+            "description":"Póngase en contacto y tenga soporte directo de nuestro equipo técnico y comercial."
+        },
+        "title":"Hable con nosotros",
+        "nome":"Nombre",
+        "email":"Correo electrónico",
+        "assunto":{
+            "text1":"Departamento",
+            "text2": "Técnico",
+            "text3": "Comercial",
+            "text4": "Marketing",
+            "text5": "Administrativo",
+            "text6": "Otro"
+        },
+        "produtos":"Tema en cuestion",
+        "mensagem": "Mensaje",
+        "enviar": "Mandar"
+    },
+    "endereco1":"Av. Brigadeiro Faria Lima, 1755, sala 4 - São Paulo/SP",
+    "endereco2":"R. André Adolfo Ferrari, 107 - Zona Industrial Nova Era, Indaiatuba/SP",
+    "endereco3":"Super Carretera 60, Hernandarias – Alto Paraná – Paraguay",
+    "footer":"Todos los derechos reservados",
+    "btnback":"Vuelve"
+}
